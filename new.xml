@@ -1,7 +1,7 @@
 
 <Person>
 <Fullname>Mariia Oksova</Fullname>
-<Age>30</>
-<Pets>0</>
+<Age>30</Age>
+<Pets>0</Age>
 <Desired_salary>1000$</Desired_salary>
 </Person>
