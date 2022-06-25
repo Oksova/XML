@@ -1,0 +1,28 @@
+<Skills>
+        <sk_1>Basic theory (What is testing, bug reports, documentation, types, methods, areas of testing, etc.) SDLC, STLC</sk_1>
+        <sk_2>Client-server architecture</sk_2>
+        <sk_3>HTTP request methods to the server</sk_3>
+        <sk_4>HTTP server response codes</sk_4>
+        <sk_5>Structures of HTTP Requests and Responses</sk_5>
+        <sk_6>What is JSON, XML. Their structure</sk_6>
+        <sk_7>Removing and reading logs from an external server</sk_7>
+        <sk_8>API testing via Postman (JS, API autotests)</sk_8>
+        <sk_9>Sniffing http web traffic with Charles and Fiddler</sk_9>
+        <sk_10>Web Browser Dev Tools (Google Chrome, FireFox)</sk_10>
+        <sk_11>VPN (How it works, why to need it, how to use it, tool options)</sk_11>
+        <sk_12>Mobile testing</sk_12>
+        <sk_13>Feature IOS, Android, Guidelines</sk_13>
+        <sk_14>Building IOS applications on Xcode</sk_14>
+        <sk_15>Building Android applications on Android Studio</sk_15>
+        <sk_16>ADB (android device management)</sk_16>
+        <sk_17>Setting up proxy and vpn on IOS and Android</sk_17>
+        <sk_18>Interception (sniffing) of mobile traffic through Charles and Fiddler on IOS and Android</sk_18>
+        <sk_19>Command line (terminal) Linux (copy, create, view, move files on servers without a graphical interface)</sk_19>
+        <sk_20>Basics of bash scripting, automation of routine tasks on the server</sk_20>
+        <sk_21>Access to remote servers</sk_21>
+        <sk_22>SQL fundamentals (Create, Delete, Drop, Insert into, Select, From, Where, Join)</sk_22>
+        <sk_23>Postgres database (installation, configuration and use)</sk_23>
+        <sk_24>Non-relational database Redis (installation, configuration, use)</sk_24>
+        <sk_25>Load Testing in Jmeter</sk_25>
+        <sk_26>Scrum Development Methodology</sk_26>
+</Skills>
